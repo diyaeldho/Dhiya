@@ -1,0 +1,51 @@
+StudentID,Name,Course,Batch,Age,Score
+1,Neha,Excel,A,26,57
+2,Kiran,Data Analytics,B,30,100
+3,Arun,Python,B,18,74
+4,Anu,Excel,A,32,67
+5,Arun,Excel,A,28,51
+6,Asha,Python,C,35,50
+7,Anu,Excel,A,31,96
+8,Asha,Excel,A,32,81
+9,Meera,Python,B,25,93
+10,Arun,Data Analytics,B,18,76
+11,Meera,Excel,A,23,90
+12,Diya,Python,C,28,96
+13,Meera,Data Analytics,C,24,69
+14,Diya,Excel,B,34,75
+15,Nikhil,Python,B,25,97
+16,Anu,Data Analytics,C,23,73
+17,Meera,Excel,C,29,55
+18,Kiran,Excel,C,21,99
+19,Neha,Excel,B,29,81
+20,Asha,Data Analytics,A,27,95
+21,Nikhil,Excel,C,30,91
+22,Neha,Python,C,25,50
+23,Arun,Excel,C,25,75
+24,Meera,Data Analytics,C,29,79
+25,Diya,Excel,C,18,74
+26,Meera,Python,C,35,63
+27,Anu,Python,B,29,86
+28,Meera,Python,C,31,81
+29,Vivek,Data Analytics,B,18,84
+30,Meera,Excel,C,28,79
+31,Nikhil,Python,A,23,85
+32,Nikhil,Python,A,35,66
+33,Asha,Excel,A,20,51
+34,Kiran,Python,B,25,67
+35,Rahul,Excel,A,29,68
+36,Rahul,Python,A,26,83
+37,Neha,Excel,B,27,79
+38,Vivek,Data Analytics,B,21,51
+39,Diya,Data Analytics,B,31,100
+40,Arun,Data Analytics,A,26,96
+41,Meera,Python,C,31,51
+42,Arun,Python,B,22,52
+43,Neha,Data Analytics,C,34,93
+44,Anu,Excel,A,34,78
+45,Arun,Excel,C,18,75
+46,Nikhil,Data Analytics,C,31,53
+47,Diya,Python,A,19,69
+48,Rahul,Python,B,27,97
+49,Neha,Data Analytics,C,26,58
+50,Asha,Excel,A,24,86
